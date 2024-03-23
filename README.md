@@ -4,7 +4,7 @@ at the Deutsche Telekom. The task was to predict customer satisfaction from
 a dataset including both technical telecommunication data and the contract types
 of the customers. Given the high dimensionality of the data, I have focused
 mainly on feature engineering and implemented two different algortihms to find the 
-most helpful features for a prediction: Simulated annealing and Relief. The data and 
+most helpful features for a prediction: simulated annealing and relief. The data and 
 the results are censorded due to the non-disclosure agreement.
 
 ## Repositories Used
